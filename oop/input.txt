@@ -1,5 +1,5 @@
-4
-Dudung 20 165 60.5
-Abdullah 21 160 70.2
-Sempurna 19 170 80.1
-Oskadon 17 155 90.0
+Abdullah Nusantara       L17Jakarta Selatan
+Oskadon Oye              L18Bogor
+Similikiti Weleh         P17Tasikmalaya
+Tasiah Indahwati         P16Bandung
+Purnamasari              P20Salatiga
